@@ -16,7 +16,7 @@ It was decided that Markdown Archiectural Decision Records (MADR) would be used 
 _Chosen option_: "MADR" emerged as the ideal choice for our architectural decision documentation. This is due to MADR's structured and standardized approach as it has predefined template for recording architectural decisions and their consequences, which stood as a clear advantage. This constrasts with leightweight and plain text documents as it lacks a consistent template, which would lead to challanges in maintaining consistency - making it harder to digest the information.
 
 ## Consequences
-The standarized template provided by MADR enhanced the ease of reference within the decision records. With the structured approach, I found that I could quickly locate the relevant information and it acted as a reminder for the reason behind each archiectural decision.
+The standarized template provided by MADR enhanced the ease of reference within the decision records. With the structured approach, I found that I could quickly locate the relevant information and it acted as a reminder for the reason behind each archiectural decision. However, the format did pose a learning curve as it was difficult to become familar with the template and took multiple iterations to get the standard right. 
 
 ## More information 
 https://adr.github.io/madr/ 
