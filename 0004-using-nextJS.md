@@ -16,7 +16,7 @@ Upon the process of selecting a frontend framework for the application, the need
 _Chosen Option_: Using NEXT.JS for frontend development as it is built on top of React, allowing for intergration with React components and libraries. This is a main advantage as React is leading in the best frontend frameworks so external tools are likely to be up-to-date and well maintained. Futhemore, NEXT.JS supports Server-Side Rendering (SSR) and Static Site Generation (SSG) out of the box. This is useful for optimizing performance and user experience as there won't be any delays for deployment as it is automatically done for you.
 
 ## Consequences
-Understanding the architecture for NEXT.JS was incredibly simple and easy - planning how to strucuture the code and which libraries I would be using was an easy decision. 
+The decision to use NEX.JS for frontend development resulted in positive consequences. Understanding the architecture proved to be straightforward, which helped in planning which relevant libraries that would be needed (Chakra UI, Axios, UseQuery) for the system. 
 
 ## More information 
 - https://nextjs.org/
