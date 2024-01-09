@@ -17,7 +17,7 @@ _Chosen option_: "Layered Architecture" was adopted for both the C# REST API (Ba
 While there are many benefits with Compoment-Based Architecture, for the nature of the system Layered was considered an ideal choice due the complex business logic that would be occuring within multiple components, making dependency management more difficult. 
 
 ## Consequences
-While Layered Architecture offers many advantages, setting up the initial strucuture of the application required more effort than a compoment based approach and many errors occured. However, once the setup was completed completing tasks was simple as the overall layout was there - each task was managed easily and adapted when needed. 
+While Layered Architecture offers many advantages, setting up the initial strucuture of the application required more effort that I orginally thought. It was difficult to understand each compoments within the C4 diagram as I constantly got the layers wrong and had to change the diagram several times. However, once the style was correct - it was easy to understand how each compoment would react to eachother within the code. 
 
 ## More information 
 - https://bitloops.com/docs/bitloops-language/learning/software-architecture/layered-architecture
