@@ -19,4 +19,4 @@ _Chosen option_: "MADR" emerged as the ideal choice for our architectural decisi
 The standarized template provided by MADR enhanced the ease of reference within the decision records. With the structured approach, I found that I could quickly locate the relevant information and it acted as a reminder for the reason behind each archiectural decision. However, the format did pose a learning curve as it was difficult to become familar with the template and took multiple iterations to get the standard right. 
 
 ## More information 
-https://adr.github.io/madr/ 
+- https://adr.github.io/madr/ 
