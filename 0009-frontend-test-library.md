@@ -19,4 +19,3 @@ The decision to use Jest as a testing framework was influenced by its time-savin
 
 ## More information 
 - https://jestjs.io/docs/getting-started
--
