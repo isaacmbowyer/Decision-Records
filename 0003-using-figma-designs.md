@@ -1,4 +1,3 @@
-
 # Choosing Figma for Frontend Designs
 
 ## Status 
