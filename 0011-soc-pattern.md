@@ -1,4 +1,4 @@
-# Applying Separation of Concerns in Frontend and Backend
+# Applying Separation of Concerns pattern in Frontend and Backend
 
 ## Status 
 - Accepted
