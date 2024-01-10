@@ -4,7 +4,7 @@
 - Accepted
 
 ## Context and Problem Statement 
-- Choosing the right tool for conveying the design, behaviour and structure of the architecture  was crucial for ensuring clear and simple communication for how the system would react to compoments. An interface that supports for various diagram types were essential in order to prevent multiple tools being used.
+Choosing the right tool for conveying the design, behaviour and structure of the architecture  was crucial for ensuring clear and simple communication for how the system would react to compoments. An interface that supports for various diagram types were essential in order to prevent multiple tools being used.
 
 ## Considered Options
 -  _Draw.io_: A web-based diagramming tool that allows for the creation of various types of diagrams, including C4, ERDs, Sequence and Class diagrams. 
