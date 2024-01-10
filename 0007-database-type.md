@@ -14,7 +14,7 @@ Selecting the appropriate database and type for a REST API is an important decis
 _Chosen Option_: The decision was to employ a relational database, "MySQL" for the REST API. This choice was heavily made on the structured nature of the data and the relationships highlighted in the ERD. The application has entities like "User" connected with "Gender", "Ethnicity" and "Role", which emphasises the suitability of a relational model. MySQL's schema aligns with the application's requirements as it ensures reliable and efficient management of connected data.
 
 ## Consequences
-One main consequence was that ACID principles are followed in MySQL. This ensured reliable data consistency and durability, which is crucial for a REST API handling visa operations. Futhermore, MySQL is scalable, it can easily adapt to growing datasets and increased API usage - this is extremely useful for the system as there will be an increased amount of growing users and visa requests. 
+One main consequence was that ACID principles are followed in MySQL. This ensured reliable data consistency and durability, which is crucial for a REST API handling visa operations. Furthermore, MySQL is scalable, it can easily adapt to growing datasets and increased API usage - this is extremely useful for the system as there will be an increased amount of growing users and visa requests. 
 
 ## More information 
 - https://www.oracle.com/mysql/what-is-mysql/
